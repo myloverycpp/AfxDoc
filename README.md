@@ -86,6 +86,9 @@ CleanMyMac 垃圾清理工具
 
 Tuxera NTFS for Mac的NTFS读写工具
 
+qBittorrent -BT下载工具
+
+BitComet（比特彗星） -BT下载工具
  
 IDM下载工具-http://idman.ys168.com/
 
